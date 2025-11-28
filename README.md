@@ -35,12 +35,12 @@ I’m an analytics-focused MS Operations & Technology Management student with ex
 
 ## 📁 Featured Projects
 
-### 🔹 **Project 7: Baseball Data Analysis**
+### 🔹 ** Baseball Data Analysis**
 - Cleaned, aggregated, and analyzed MLB statistics  
 - Created metrics like OBP, PAB, and career summarizations  
 - Python + Pandas + data manipulation  
 
-### 🔹 **Project 8: Boiler Sample Data**
+### 🔹 ** Boiler Sample Data**
 - Programmatically combined 25 separate CSV files  
 - Split datasets into control vs test samples  
 - Automated processing pipeline in Python  
