@@ -38,7 +38,9 @@ I’m an analytics-focused MS Operations & Technology Management student with ex
 ### 🔹 ** Baseball Data Analysis**
 - Cleaned, aggregated, and analyzed MLB statistics  
 - Created metrics like OBP, PAB, and career summarizations  
-- Python + Pandas + data manipulation  
+- Python + Pandas + data manipulation
+🔗 [View Project Repository](https://github.com/swezinye/Python_Baseball_Analysis)
+  
 
 ### 🔹 ** Boiler Sample Data**
 - Programmatically combined 25 separate CSV files  
