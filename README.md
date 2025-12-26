@@ -35,57 +35,19 @@ I’m an analytics-focused MS Operations & Technology Management student with ex
 
 ## 📁 Featured Projects
 
-### 🔹 ** Baseball Data Analysis**
-- Cleaned, aggregated, and analyzed MLB statistics  
-- Created metrics like OBP, PAB, and career summarizations  
-- Python + Pandas + data manipulation
-🔗 [View Project Repository](https://github.com/swezinye/Python_Baseball_Analysis)
-  
+### 🐍 Technical Data Analyst Portfolio (Python)
+A comprehensive collection of 10 projects focusing on end-to-end data pipelines and statistical modeling.
 
-### 🔹 ** Boiler Sample Data**
-- Programmatically combined 25 separate CSV files  
-- Split datasets into control vs test samples  
-- Automated processing pipeline in Python  
+-Data Visualization: COVID-19 mortality trends using Matplotlib/Pandas.
+-ETL & Wrangling: Automated processing for Boiler Sample data (25+ CSVs), Regex coordinate extraction, and Piston Ring reshaping.
+-Advanced Analytics: MLB performance metrics (OBP/PAB) and Object-Oriented Queuing Theory libraries.
+-APIs: Real-time geocoding and address validation via TomTom API.
 
-### 🔹 **Piston Rings Reformatting**
-- Transformed multi-row samples into single-row analytic format  
-- Verified observation counts and reshaped dataset  
-
-### 🔹 **Coordinate Extraction (Regex Project)**
-- Extracted latitude/longitude from messy strings  
-- Cleaned and transformed into structured numeric dataset  
-
-### Sp25_Decision_Modeling
-- Conducted decision modeling using R and R Markdown
-- Built quantitative models to support business decision-making
-- Applied optimization, scenario analysis, and data-driven evaluation
-
-🔗 [View Project Repository](https://github.com/swezinye/Sp25_Decision_Modeling)
-
-### Exploratory_Data_Analysis
-- Performed data cleaning and visualization in R  
-- Used ggplot2, dplyr, and tidyverse for trend analysis  
-🔗 [View Project Repository](https://github.com/swezinye/Sp25_Decision_Modeling/blob/main/Exploratory_Data_Analysis.R)
-
-### Ggplot_InClass
-- Created multiple ggplot2 visualizations and templates  
-- Practiced customizing scales, themes, and facets  
-🔗 [View Project Repository](https://github.com/swezinye/Sp25_Decision_Modeling/blob/main/Ggplot_In-Class.Rmd)
-
-### Predictive_Analysis
-- Conducted regression and forecasting analysis  
-- Built predictive models using R and tidyverse  
-🔗 [View Project Repository](https://github.com/swezinye/Sp25_Decision_Modeling/blob/main/Predective_Analysis.Rmd)
-
-### Financial_Data_Analysis
-- Analyzed financial data using R Markdown  
-- Built time-series visualizations and summary reports  
-🔗 [View Project Repository](https://github.com/swezinye/Sp25_Decision_Modeling/blob/main/Financial%20Data%20Analysis.Rmd)
-
-### Causal_Analysis
-- Conducted causal inference using R  
-- Explored relationships between variables through modeling  
-🔗 [View Project Repository](https://github.com/swezinye/Sp25_Decision_Modeling/blob/main/Causal_Analysis.Rmd)
+### 📊 Decision Modeling & Statistical Analysis (R)
+A dedicated repository for quantitative business modeling and causal inference.
+-Predictive Modeling: Regression and forecasting using tidyverse and R Markdown.
+-Causal Analysis: Inference modeling to explore variable relationships.
+-Financial Analysis: Time-series visualizations and summary reporting.
 
 
 ---
